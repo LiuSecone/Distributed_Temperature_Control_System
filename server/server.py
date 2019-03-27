@@ -25,7 +25,6 @@ def log_recorder(dic):
 # 处理的dict请求包括空调调节的请求和前台的查询请求
 # 可以使用数据库等结构来存储
 def process_dict(dic):
-    log_recorder(dic)
     pass
     return 'Success!'
 
